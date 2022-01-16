@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BasileNgy, I'm looking for an 6 months internship as video game developer
+- 👋 Hi, I’m @BasileNgy, I'm looking for my first job as video game developer
 
 <!---
 BasileNgy/BasileNgy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
